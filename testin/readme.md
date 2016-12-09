@@ -4,14 +4,10 @@
 网站所面向的用户包括个人和企业两种。属于盈利网站，但是有一定得优惠服务。
 
 - 网站地址为：[http://www.testin.cn/](http://www.testin.cn/)
+
 ***
 ###进行测试
 - 将百度网盘的安卓版APP上传并进行了标准兼容测试，精选50款手机。测试结果
-([1](https://github.com/liujinmenghaoren/myTest/blob/master/testin/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E6%80%BB%E4%BD%93%E6%A6%82%E5%86%B5.png), 
-[2](https://github.com/liujinmenghaoren/myTest/blob/master/testin/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E8%AF%A6%E6%83%851.png),
-[3](https://github.com/liujinmenghaoren/myTest/blob/master/testin/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E8%AF%A6%E6%83%852.png),
-[4](https://github.com/liujinmenghaoren/myTest/blob/master/testin/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E8%AF%A6%E6%83%853.png) )
-和[报告](https://github.com/liujinmenghaoren/myTest/blob/master/testin/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E5%88%86%E6%9E%90.txt)请点击链接。
 
 ***
 ###使用体验
@@ -21,3 +17,19 @@
 - 有一点想说的就是觉得这个网站的界面用起来不是很方便，没有一目了然的感觉，总
 是觉得不知道该点哪里去找想打开的东西。其次，服务质量也很好，尤其满意的
 地方是手机款式很全。有这个宝贝已经很好了。
+
+***
+###测试结果分析报告
+请点击[这里](测试结果分析.txt)查看。
+
+***
+###测试结果如下：
+
+####概况
+![1](测试结果总体概况.png)
+ 
+ 
+####详情
+![2](测试结果详情1.png)
+![3](测试结果详情2.png)
+![4](测试结果详情3.png) 
